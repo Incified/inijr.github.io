@@ -1,5 +1,5 @@
 # Iniobong Dickson Junior Portfolio
-## Profile
+###### Profile
 Field | Value
 ------|--------
 Date of Birth | 17/08/1995
